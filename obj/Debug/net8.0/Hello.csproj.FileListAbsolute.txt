@@ -1,0 +1,14 @@
+/Users/shalki/dotnet-course-code/Hello/bin/Debug/net8.0/Hello
+/Users/shalki/dotnet-course-code/Hello/bin/Debug/net8.0/Hello.deps.json
+/Users/shalki/dotnet-course-code/Hello/bin/Debug/net8.0/Hello.runtimeconfig.json
+/Users/shalki/dotnet-course-code/Hello/bin/Debug/net8.0/Hello.dll
+/Users/shalki/dotnet-course-code/Hello/bin/Debug/net8.0/Hello.pdb
+/Users/shalki/dotnet-course-code/Hello/obj/Debug/net8.0/Hello.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shalki/dotnet-course-code/Hello/obj/Debug/net8.0/Hello.AssemblyInfoInputs.cache
+/Users/shalki/dotnet-course-code/Hello/obj/Debug/net8.0/Hello.AssemblyInfo.cs
+/Users/shalki/dotnet-course-code/Hello/obj/Debug/net8.0/Hello.csproj.CoreCompileInputs.cache
+/Users/shalki/dotnet-course-code/Hello/obj/Debug/net8.0/Hello.dll
+/Users/shalki/dotnet-course-code/Hello/obj/Debug/net8.0/refint/Hello.dll
+/Users/shalki/dotnet-course-code/Hello/obj/Debug/net8.0/Hello.pdb
+/Users/shalki/dotnet-course-code/Hello/obj/Debug/net8.0/Hello.genruntimeconfig.cache
+/Users/shalki/dotnet-course-code/Hello/obj/Debug/net8.0/ref/Hello.dll
