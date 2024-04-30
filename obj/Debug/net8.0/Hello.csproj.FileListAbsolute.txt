@@ -12,3 +12,4 @@
 /Users/shalki/dotnet-course-code/Hello/obj/Debug/net8.0/Hello.pdb
 /Users/shalki/dotnet-course-code/Hello/obj/Debug/net8.0/Hello.genruntimeconfig.cache
 /Users/shalki/dotnet-course-code/Hello/obj/Debug/net8.0/ref/Hello.dll
+/Users/shalki/dotnet-course-code/Hello/obj/Debug/net8.0/Hello.sourcelink.json
